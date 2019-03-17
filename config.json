@@ -1,10 +1,9 @@
 {
-  "token": "[TOKEN]",
-  "client_id": "[CLIENT ID]",
-  "prefix": "[PREFIX]",
-  "owner_id": "[OWNER ID]",
-  "status": "[STATUS]",
-  "youtube_api_key": "[YOUTUBE API KEY]",
-  "admins": ["Idhere", "Idhere"],
+  "client_id": "[515351665088659486]",
+  "prefix": "[1]",
+  "owner_id": "[360533020781838346]",
+  "status": "[online]",
+  "youtube_api_key": "[AIzaSyCQapWI28_Um0n4AEGNVw7l3QZqhQF0cFs]",
+  "admins": ["428661806475640844", "285499192921554948"],
   "server_port":"[PORT OF SERVER HERE]"
 }
