@@ -1,7 +1,4 @@
 "use strict";
-// Don't mess with this file it will ruin your bot, to change stuff edit config.json
-// PS: This bot is not completed, it may error.
-
 const errorlog = require("./data/errors.json")
 const thing = require('mathjs')
 const maths = thing.parser()
@@ -607,6 +604,5 @@ if (message.content.startsWith(prefix + 'queue')) {
 }
 })
 
-bot.loginWithToken(config.token)
-// This version of discord.js is V8, you may install it using npm install discord.js#indev-old
-// Don't mess with this file it will ruin your bot, to change stuff edit config.json
+bot.loginWithToken(process.env.BOT_TOKEN)
+
